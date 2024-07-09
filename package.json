@@ -1,0 +1,12 @@
+{
+  "name": "prettier-plugin-html-inline-force-semi",
+  "version": "1.0.0",
+  "description": "Prettier plugin to ensure HTML inline attributes (style, functions) end with a semicolon",
+  "main": "dist/index.js",
+  "keywords": ["prettier", "plugin", "style", "semicolon", "force", "inline", "suffix"],
+  "author": "dw",
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": ">=3.0.0"
+  }
+}
